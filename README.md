@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kennan :trollface:</h1>
+<h1 align="center">Hi 👋, I'm Kennan</h1>
 <h3 align="center">I am a graduate computer engineering student at the University of Texas at Dallas specializing in machine learning and AI.</h3>
 
 - You can view my portfolio at [https://kennan-wu.github.io/kennan-portfolio/](https://nyook941.github.io/kennan-portfolio/)
